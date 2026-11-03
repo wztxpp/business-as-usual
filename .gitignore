@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+!.env.example
+*.log
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
+.openai/
